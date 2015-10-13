@@ -1,0 +1,75 @@
+/**{
+	border: 2px solid red;
+}*/
+.naamNav{
+	text-align: right;
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+}
+
+#header{
+	
+	width: ; 
+	height: 100px;
+	background-color: lightblue;
+	margin-top: -35px;
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+#mijnNaam{
+	text-align: center;
+	font-family: Bell MT;
+	text-decoration: none;
+	padding-top: 300px;
+	padding-left: 400px;
+}
+
+#mijnOmschrijving{
+	text-align: center;
+	font-family: Bell MT;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-left: 580px;
+}
+
+nav ul {
+	border-top: double 3 px #8e8e8e;
+	text-align: center;
+}
+nav ul li{
+	top: -10px;
+	float: left;
+	padding: 0px 30px;
+	list-style-type: none;
+	border-bottom: solid 1 px #8e8e8e;
+}
+
+nav ul li a 
+{
+	font-size:20pt;
+	font-weight: bold;
+	color: rgb(74, 154, 181);
+	text-decoration: none;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.70);
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius :6px;
+	-webkit-transition: all 1.0s ease-in-out;
+	-moz-transition: all 1.0s ease-in-out;
+	-o-transition: all 1.0s ease-in-and;
+	transition: all 1.0s ease-in-out;
+}
+
+nav ul li a:hover,
+nav ul li a:focus
+{
+	color: white;
+	background: rgb(86,122,199);
+}
+
+span{
+	color: blue;
+}
